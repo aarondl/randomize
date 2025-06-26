@@ -10,7 +10,7 @@ import (
 	"time"
 
 	"github.com/friendsofgo/errors"
-	"github.com/volatiletech/strmangle"
+	"github.com/aarondl/strmangle"
 )
 
 // Randomizer allows a field to be randomized
